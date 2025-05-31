@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aakanksha13-cloud/dsa/tree/master/0239-sliding-window-maximum) |
+| [0969-number-of-recent-calls](https://github.com/Aakanksha13-cloud/dsa/tree/master/0969-number-of-recent-calls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Aakanksha13-cloud/dsa/tree/master/0134-gas-station) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Aakanksha13-cloud/dsa/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Aakanksha13-cloud/dsa/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
