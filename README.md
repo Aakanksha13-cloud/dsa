@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aakanksha13-cloud/dsa/tree/master/0239-sliding-window-maximum) |
 | [0969-number-of-recent-calls](https://github.com/Aakanksha13-cloud/dsa/tree/master/0969-number-of-recent-calls) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Aakanksha13-cloud/dsa/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Sliding Window
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Aakanksha13-cloud/dsa/tree/master/0969-number-of-recent-calls) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Aakanksha13-cloud/dsa/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Simulation
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Aakanksha13-cloud/dsa/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
