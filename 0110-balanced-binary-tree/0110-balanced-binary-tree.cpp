@@ -23,8 +23,8 @@ public:
         int l = height(root->left);
         int r = height(root->right);
         if(abs(l-r)>1)return false;
-        if(!isBalanced(root->left))return false;
-        if(!isBalanced(root->right))return false;
-        return true;
+        // if(!isBalanced(root->left))return false;
+        // if(!isBalanced(root->right))return false;
+        return isBalanced(root->left)&&isBalanced(root->right) ;
     }
 };
