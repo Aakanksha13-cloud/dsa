@@ -11,14 +11,14 @@
  */
 class Solution {
 public:
-    TreeNode* solve(vector<int>& inorder, vector<int>& postorder, int &pindex, int s, int e, int size, unordered_map<int,int> &m){
+    TreeNode* solve(vector<int>& inorder, vector<int>& postorder, int &pindex, int s, int e, unordered_map<int,int> &m){
         if(pindex<0)return NULL;
         if(s>e)return NULL;
         TreeNode* root = new TreeNode(postorder[pindex]);
         int element= m[postorder[pindex]];
         pindex--;
-        root->right= solve(inorder,postorder,pindex,element+1,e,size,m);
-        root->left=solve(inorder,postorder,pindex,s,element-1,size,m);
+        root->right= solve(inorder,postorder,pindex,element+1,e,m);
+        root->left=solve(inorder,postorder,pindex,s,element-1,m);
         return root;
     }
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
@@ -30,6 +30,6 @@ public:
         int pindex =size-1;
         int s=0;
         int e = size-1;
-        return solve(inorder, postorder, pindex,s,e,size,m);
+        return solve(inorder, postorder, pindex,s,e,m);
     }
 };
