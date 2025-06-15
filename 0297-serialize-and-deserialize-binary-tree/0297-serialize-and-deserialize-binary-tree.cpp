@@ -27,7 +27,7 @@ public:
             q.pop();
             return NULL;
         }
-        TreeNode* curr=new TreeNode(stoi(q.front()));
+        TreeNode* curr=new TreeNode(stoi(q.front()));//tree allows only int values, therefore stoi
         q.pop();
         curr->left = solve(q);
         curr->right=solve(q);
@@ -41,7 +41,6 @@ public:
         while(getline(ss,str,',')){
             q.push(str);
         }
-        if(q.empty())return NULL;
         return solve(q);
 
     }
