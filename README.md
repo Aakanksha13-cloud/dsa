@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Aakanksha13-cloud/dsa/tree/master/0652-find-duplicate-subtrees) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Aakanksha13-cloud/dsa/tree/master/0652-find-duplicate-subtrees) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aakanksha13-cloud/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
