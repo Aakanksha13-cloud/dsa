@@ -47,7 +47,7 @@ public:
            int minVal=getMax(root->left);
            root->val=minVal;
            root->left=deleteNode(root->left,minVal);
-           return root;
+           
         }
         }
         return root;
