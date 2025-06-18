@@ -28,8 +28,8 @@ public:
         vector<int> arr;
         inorder(root,arr);
         int n=arr.size();
-        for(int i=n-1;i>=0;i--){
-            if(i==n-1)continue;
+        for(int i=n-2;i>=0;i--){
+            // if(i==n-1)continue;
             arr[i]+=arr[i+1];
         }
         int index=0;
