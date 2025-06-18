@@ -16,7 +16,7 @@ public:
         if(root==NULL)return 0;
         int height=0;
         while(root){
-            height++;
+            height+=1;
             root=root->right;
         }
         return height;
@@ -25,7 +25,7 @@ public:
         if(root==NULL)return 0;
         int height=0;
         while(root){
-            height++;
+            height+=1;
             root=root->left;
         }
         return height;
