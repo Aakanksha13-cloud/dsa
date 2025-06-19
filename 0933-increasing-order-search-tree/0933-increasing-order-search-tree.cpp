@@ -11,23 +11,35 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* root,vector<int>& arr){
+    // void inorder(TreeNode* root,vector<int>& arr){
+    //     if(root==NULL)return;
+    //     inorder(root->left,arr);
+    //     arr.push_back(root->val);
+    //     inorder(root->right,arr);
+    // }
+    TreeNode* ans=new TreeNode(0);
+    TreeNode* curr=ans;
+    void solve(TreeNode* root){
         if(root==NULL)return;
-        inorder(root->left,arr);
-        arr.push_back(root->val);
-        inorder(root->right,arr);
+        solve(root->left);
+        root->left=NULL;
+        curr->right=root;
+        curr=curr->right;
+        solve(root->right);
     }
     TreeNode* increasingBST(TreeNode* root) {
-        vector<int> arr;
-        inorder(root,arr);
-        TreeNode* ans=new TreeNode(arr[0]);
-        TreeNode* curr=ans;
-        int i=1;
-        while(i<arr.size()){
-            curr->right= new TreeNode(arr[i]);
-            curr=curr->right;
-            i++;
-        }
-        return ans;
+        // vector<int> arr;
+        // inorder(root,arr);
+        // TreeNode* ans=new TreeNode(arr[0]);
+        // TreeNode* curr=ans;
+        // int i=1;
+        // while(i<arr.size()){
+        //     curr->right= new TreeNode(arr[i]);
+        //     curr=curr->right;
+        //     i++;
+        // }
+        // return ans;
+        solve(root);
+        return ans->right;
     }
 };
