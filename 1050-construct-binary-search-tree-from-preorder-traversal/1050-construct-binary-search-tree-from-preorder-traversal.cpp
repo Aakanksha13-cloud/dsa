@@ -15,9 +15,9 @@ public:
     TreeNode* solve(vector<int>& preorder, int maxVal){
         if(i==preorder.size()|| preorder[i]>= maxVal)return NULL;
         int rootVal=preorder[i];
-        
-        TreeNode* root=new TreeNode(rootVal);
         i++;
+        TreeNode* root=new TreeNode(rootVal);
+        
         root->left=solve(preorder,rootVal);
         root->right=solve(preorder,maxVal);
         return root;
