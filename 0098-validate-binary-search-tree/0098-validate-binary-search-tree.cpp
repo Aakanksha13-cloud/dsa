@@ -18,6 +18,6 @@ public:
     }
     bool isValidBST(TreeNode* root) {
         if(root==NULL) return true;
-        return solve(root,LONG_MIN,LONG_MAX);
+        return solve(root,LONG_MIN,LONG_MAX);//long_min,long_max have larger range than intmin ,intmax
     }
 };
