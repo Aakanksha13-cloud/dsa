@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Aakanksha13-cloud/dsa/tree/master/0085-maximal-rectangle) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Aakanksha13-cloud/dsa/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Simulation
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1285-balance-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1285-balance-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1285-balance-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1285-balance-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
