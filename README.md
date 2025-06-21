@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0606-construct-string-from-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Aakanksha13-cloud/dsa/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Aakanksha13-cloud/dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0783-search-in-a-binary-search-tree) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0606-construct-string-from-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Aakanksha13-cloud/dsa/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Aakanksha13-cloud/dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Aakanksha13-cloud/dsa/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0617-merge-two-binary-trees](https://github.com/Aakanksha13-cloud/dsa/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Aakanksha13-cloud/dsa/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0606-construct-string-from-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Aakanksha13-cloud/dsa/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Aakanksha13-cloud/dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0783-search-in-a-binary-search-tree) |
