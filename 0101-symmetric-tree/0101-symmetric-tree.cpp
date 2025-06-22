@@ -21,7 +21,6 @@ public:
         return leftAns&&rightAns;
     }
     bool isSymmetric(TreeNode* root) {
-        if(root->left==NULL && root->right==NULL)return true;
         return solve(root->left,root->right);
     }
 };
