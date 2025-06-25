@@ -7,7 +7,7 @@ public:
             
             if(nums[i]==val){
                 while(j>i && nums[j]==val)j--;
-                if(i<j)swap(nums[i],nums[j]); j--;
+                if(i<=j)swap(nums[i],nums[j]); j--;
                
             }
            
