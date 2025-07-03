@@ -10,8 +10,6 @@ public:
         }
         reverse(nums.begin(),nums.end());
 
-        if(nums.size()==1)return num;
-
         for(int i =0; i<nums.size()-1;i++){
            for(int j = nums.size()-1; j>i;j--){
             if(nums[i]%2==0){
