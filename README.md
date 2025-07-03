@@ -98,11 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aakanksha13-cloud/dsa/tree/master/0002-add-two-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aakanksha13-cloud/dsa/tree/master/0002-add-two-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sorting
 |  |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aakanksha13-cloud/dsa/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Aakanksha13-cloud/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aakanksha13-cloud/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
