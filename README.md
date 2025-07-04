@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aakanksha13-cloud/dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Aakanksha13-cloud/dsa/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3226-minimum-number-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/3226-minimum-number-game) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Aakanksha13-cloud/dsa/tree/master/3495-k-th-nearest-obstacle-queries) |
 ## Queue
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aakanksha13-cloud/dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Aakanksha13-cloud/dsa/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Aakanksha13-cloud/dsa/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3226-minimum-number-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/3226-minimum-number-game) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Aakanksha13-cloud/dsa/tree/master/3495-k-th-nearest-obstacle-queries) |
 ## Monotonic Queue
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Aakanksha13-cloud/dsa/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Aakanksha13-cloud/dsa/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3226-minimum-number-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/3226-minimum-number-game) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aakanksha13-cloud/dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Aakanksha13-cloud/dsa/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Aakanksha13-cloud/dsa/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3226-minimum-number-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
