@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/Aakanksha13-cloud/dsa/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/3226-minimum-number-game) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Aakanksha13-cloud/dsa/tree/master/3495-k-th-nearest-obstacle-queries) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aakanksha13-cloud/dsa/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Queue
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/Aakanksha13-cloud/dsa/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/3226-minimum-number-game) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Aakanksha13-cloud/dsa/tree/master/3495-k-th-nearest-obstacle-queries) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aakanksha13-cloud/dsa/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -111,12 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Aakanksha13-cloud/dsa/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Aakanksha13-cloud/dsa/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/3226-minimum-number-game) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aakanksha13-cloud/dsa/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aakanksha13-cloud/dsa/tree/master/0002-add-two-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aakanksha13-cloud/dsa/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
 | ------- |
