@@ -8,6 +8,7 @@ class compare{
 class Solution {
 public:
     vector<int> getFinalState(vector<int>& nums, int k, int multiplier) {
+        if(multiplier==1)return nums;
         priority_queue<pair<int,int>,vector<pair<int,int>>,compare> pq;
         for(int i=0;i<nums.size();i++){
             pq.push({nums[i],i});
