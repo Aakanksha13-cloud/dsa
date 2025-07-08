@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Aakanksha13-cloud/dsa/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Aakanksha13-cloud/dsa/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Aakanksha13-cloud/dsa/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aakanksha13-cloud/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Aakanksha13-cloud/dsa/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Aakanksha13-cloud/dsa/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aakanksha13-cloud/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Aakanksha13-cloud/dsa/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
