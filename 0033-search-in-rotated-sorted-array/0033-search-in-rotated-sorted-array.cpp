@@ -5,7 +5,7 @@ public:
         int e=nums.size()-1;
         int mid=(e-s)/2;
         while(s<=e){
-            mid=s+(e-s)/2;
+            
             if(nums[mid]==target)return mid;
             else if(nums[s]<=nums[mid]){
                 if(nums[s]<=target && target<nums[mid])e=mid-1;
@@ -15,6 +15,7 @@ public:
                 if(nums[mid]<target && target<= nums[e])s=mid+1;
                 else e=mid-1;
             }
+            mid=s+(e-s)/2;
         }
         return -1;
     }
