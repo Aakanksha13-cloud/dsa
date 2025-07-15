@@ -33,15 +33,30 @@ public:
         return min(dp[0],dp[1]);
     }
     
+    int SpaceOpti(vector<int>& cost){
+        int n=cost.size();
+        int prev1=0;
+        int prev2=0;
+        for(int i=n-1;i>=0;i--){
+            int currCost= cost[i]+min(prev1,prev2);
+            prev2=prev1;
+            prev1=currCost;
+        }
+        return min(prev1,prev2);
+    }
     int minCostClimbingStairs(vector<int>& cost) {
         // int zeroindex=solve(cost,0);
         // int oneIndex=solve(cost,1);
         // return min(zeroindex,oneIndex);
+
         // int n=cost.size();
         // vector<int> dp(n+1,-1);
         // int zeroindex=solveMem(cost,0,dp);
         // int oneIndex=solveMem(cost,1,dp);
         // return min(zeroindex,oneIndex);
-        return solveTab(cost);
+
+        // return solveTab(cost);
+
+        return SpaceOpti(cost);
     }
 };
