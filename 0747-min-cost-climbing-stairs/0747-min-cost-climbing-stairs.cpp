@@ -19,15 +19,29 @@ public:
        dp[i]= min(climbOne,climbTwo);
        return dp[i];
     }
+
+    int solveTab(vector<int>& cost){
+        int n=cost.size();
+        vector<int> dp(n+2,0);
+        dp[n]=0;
+        dp[n+1]=0;
+        for(int i=n-1;i>=0;i--){
+            int climbOne= cost[i] + dp[i+1];
+            int climbTwo=cost[i] + dp[i+2];
+            dp[i]= min(climbOne,climbTwo);
+        }
+        return min(dp[0],dp[1]);
+    }
     
     int minCostClimbingStairs(vector<int>& cost) {
         // int zeroindex=solve(cost,0);
         // int oneIndex=solve(cost,1);
         // return min(zeroindex,oneIndex);
-        int n=cost.size();
-        vector<int> dp(n+1,-1);
-        int zeroindex=solveMem(cost,0,dp);
-        int oneIndex=solveMem(cost,1,dp);
-        return min(zeroindex,oneIndex);
+        // int n=cost.size();
+        // vector<int> dp(n+1,-1);
+        // int zeroindex=solveMem(cost,0,dp);
+        // int oneIndex=solveMem(cost,1,dp);
+        // return min(zeroindex,oneIndex);
+        return solveTab(cost);
     }
 };
