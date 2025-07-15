@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aakanksha13-cloud/dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Aakanksha13-cloud/dsa/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/3226-minimum-number-game) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Aakanksha13-cloud/dsa/tree/master/3495-k-th-nearest-obstacle-queries) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Aakanksha13-cloud/dsa/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Aakanksha13-cloud/dsa/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Aakanksha13-cloud/dsa/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/3226-minimum-number-game) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aakanksha13-cloud/dsa/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
@@ -487,4 +490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
