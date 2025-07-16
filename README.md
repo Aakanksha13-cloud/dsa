@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Aakanksha13-cloud/dsa/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Aakanksha13-cloud/dsa/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0747-min-cost-climbing-stairs) |
+| [1086-divisor-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1086-divisor-game) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Aakanksha13-cloud/dsa/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Simulation
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Aakanksha13-cloud/dsa/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/1014-k-closest-points-to-origin) |
+| [1086-divisor-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1086-divisor-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aakanksha13-cloud/dsa/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -499,4 +501,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
