@@ -49,10 +49,10 @@ public:
         
     }
     int mincostTickets(vector<int>& days, vector<int>& costs) {
-        // int n=days.size();
-        // vector<int> dp(n+1,-1);
-        // return rec(days,costs,0,dp);
-        if(days.size()==1)return min({costs[0],costs[1],costs[2]});
-        return solveTab(days,costs);
+        int n=days.size();
+        vector<int> dp(n+1,-1);
+        return rec(days,costs,0,dp);
+        // if(days.size()==1)return min({costs[0],costs[1],costs[2]});
+        // return solveTab(days,costs);
     }
 };
