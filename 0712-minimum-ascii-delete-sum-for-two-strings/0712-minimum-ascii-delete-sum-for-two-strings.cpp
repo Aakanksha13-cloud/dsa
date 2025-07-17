@@ -29,11 +29,37 @@ public:
         }
        return dp[i][j];
     }
-    int minimumDeleteSum(string s1, string s2) {
-        //return rec(s1,s2,0,0);
+
+    int solveTab(string s1, string s2){
         int n=s1.length();
         int m=s2.length();
         vector<vector<int>> dp(n+1,vector<int>(m+1,-1));
-        return rec(s1,s2,0,0,dp);
+        dp[n][m]=0;
+        for(int j=m-1;j>=0;j--){
+            dp[n][j]=dp[n][j+1]+s2[j];
+        }
+        for(int i=n-1;i>=0;i--){
+            dp[i][m]=dp[i+1][m]+s1[i];
+        }
+        for(int i=n-1;i>=0;i--){
+            for(int j=m-1;j>=0;j--){
+              if(s1[i]==s2[j])dp[i][j]= dp[i+1][j+1];
+              else{
+                dp[i][j]= min(s2[j]+dp[i][j+1],s1[i]+dp[i+1][j]);
+              }
+            }
+            
+
+        }
+        return dp[0][0];
+    }
+    int minimumDeleteSum(string s1, string s2) {
+        //return rec(s1,s2,0,0);
+        // int n=s1.length();
+        // int m=s2.length();
+        // vector<vector<int>> dp(n+1,vector<int>(m+1,-1));
+        //return rec(s1,s2,0,0,dp);
+
+        return solveTab(s1,s2);
     }
 };
