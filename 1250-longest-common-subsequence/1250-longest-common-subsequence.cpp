@@ -12,14 +12,15 @@ public:
     int solveTab(string text1, string text2){
         int n=text1.length();
         int m=text2.length();
-        vector<vector<int>> dp(n+1,vector<int>(m+1,-1));
-        dp[n][m]=0;
-        for(int i=0;i<n;i++){
-            dp[i][m]=0;
-        }
-        for(int i=0;i<m;i++){
-            dp[n][i]=0;
-        }
+        // vector<vector<int>> dp(n+1,vector<int>(m+1,-1));
+        // dp[n][m]=0;
+        // for(int i=0;i<n;i++){
+        //     dp[i][m]=0;
+        // }
+        // for(int i=0;i<m;i++){
+        //     dp[n][i]=0;
+        // }
+         vector<vector<int>> dp(n+1,vector<int>(m+1,0));
         for(int i=n-1;i>=0;i--){
             for(int j=m-1;j>=0;j--){
                int ans=0;
@@ -32,11 +33,11 @@ public:
     }
     int longestCommonSubsequence(string text1, string text2) {
         //return solveRec(text1,text2,0,0);
-        int n=text1.length();
-        int m=text2.length();
-        vector<vector<int>> dp(n+1,vector<int>(m+1,-1));
-        return solveRec(text1,text2,0,0,dp);
+        // int n=text1.length();
+        // int m=text2.length();
+        // vector<vector<int>> dp(n+1,vector<int>(m+1,-1));
+        // return solveRec(text1,text2,0,0,dp);
 
-        //return solveTab(text1,text2);
+        return solveTab(text1,text2);
     }
 };
