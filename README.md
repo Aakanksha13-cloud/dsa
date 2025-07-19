@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/Aakanksha13-cloud/dsa/tree/master/1025-minimum-cost-for-tickets) |
 | [1086-divisor-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1086-divisor-game) |
+| [1250-longest-common-subsequence](https://github.com/Aakanksha13-cloud/dsa/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Aakanksha13-cloud/dsa/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Simulation
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/Aakanksha13-cloud/dsa/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aakanksha13-cloud/dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1250-longest-common-subsequence](https://github.com/Aakanksha13-cloud/dsa/tree/master/1250-longest-common-subsequence) |
 ## Counting
 |  |
 | ------- |
