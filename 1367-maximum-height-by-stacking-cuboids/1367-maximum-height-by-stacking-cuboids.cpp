@@ -53,6 +53,25 @@ public:
         }
         return prevRow[0];
     }
+
+    int spaceOpti2(vector<vector<int>>& cuboids){
+        int n=cuboids.size();
+        vector<int> currRow(n+2,0);
+       
+        for(int curr=n-1;curr>=0;curr--){
+            for(int prev=-1;prev<curr;prev++){
+                int inc=0;
+                int exc=0;
+                 if(prev==-1 || isSafe(cuboids[curr],cuboids[prev])){
+                  inc=cuboids[curr][2]+currRow[curr+1];
+                 }
+                exc=currRow[prev+1];
+                currRow[prev+1]= max(inc,exc);
+            }
+            
+        }
+        return currRow[0];
+    }
     int maxHeight(vector<vector<int>>& cuboids) {
         for(auto &cuboid:cuboids){
             sort(cuboid.begin(),cuboid.end());
@@ -64,6 +83,8 @@ public:
 
         //return solveTab(cuboids);
 
-        return spaceOpti(cuboids);
+        //return spaceOpti(cuboids);
+
+         return spaceOpti2(cuboids);
     }
 };
