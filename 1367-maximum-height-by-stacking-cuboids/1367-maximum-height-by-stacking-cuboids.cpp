@@ -34,6 +34,25 @@ public:
         }
         return dp[0][0];
     }
+
+    int spaceOpti(vector<vector<int>>& cuboids){
+        int n=cuboids.size();
+        vector<int> currRow(n+2,0);
+        vector<int> prevRow(n+2,0);
+        for(int curr=n-1;curr>=0;curr--){
+            for(int prev=curr-1;prev>=-1;prev--){
+                int inc=0;
+                int exc=0;
+                 if(prev==-1 || isSafe(cuboids[curr],cuboids[prev])){
+                  inc=cuboids[curr][2]+prevRow[curr+1];
+                 }
+                exc=prevRow[prev+1];
+                currRow[prev+1]= max(inc,exc);
+            }
+            prevRow=currRow;
+        }
+        return prevRow[0];
+    }
     int maxHeight(vector<vector<int>>& cuboids) {
         for(auto &cuboid:cuboids){
             sort(cuboid.begin(),cuboid.end());
@@ -42,6 +61,9 @@ public:
         // int n=cuboids.size();
         // vector<vector<int>> dp(n+2,vector<int>(n+2,-1));
         //return rec(cuboids,0,-1,dp);
-        return solveTab(cuboids);
+
+        //return solveTab(cuboids);
+
+        return spaceOpti(cuboids);
     }
 };
