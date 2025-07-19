@@ -31,6 +31,23 @@ public:
         }
         return dp[0][0];
     }
+
+    int spaceOpti(string text1, string text2){
+        int n=text1.length();
+        int m=text2.length();
+        vector<int> prev(text2.length()+1,0);
+        vector<int> curr(text2.length()+1,0);
+        for(int i=n-1;i>=0;i--){
+            for(int j=m-1;j>=0;j--){
+               int ans=0;
+              if(text1[i]==text2[j])ans=1+prev[j+1];
+              else ans = max(curr[j+1],prev[j]);
+              curr[j]=ans; 
+            }
+            prev=curr;
+        }
+        return curr[0];
+    }
     int longestCommonSubsequence(string text1, string text2) {
         //return solveRec(text1,text2,0,0);
         // int n=text1.length();
@@ -38,6 +55,8 @@ public:
         // vector<vector<int>> dp(n+1,vector<int>(m+1,-1));
         // return solveRec(text1,text2,0,0,dp);
 
-        return solveTab(text1,text2);
+        //return solveTab(text1,text2);
+
+        return spaceOpti(text1,text2);
     }
 };
