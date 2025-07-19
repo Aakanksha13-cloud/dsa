@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int solveRec(string text1, string text2,int i,int j, vector<vector<int>> dp){
+    int solveRec(string& text1, string& text2,int i,int j, vector<vector<int>>& dp){
         if(i>=text1.length() || j>=text2.length())return 0;
         if(dp[i][j]!=-1)return dp[i][j];
         int ans=0;
@@ -32,11 +32,11 @@ public:
     }
     int longestCommonSubsequence(string text1, string text2) {
         //return solveRec(text1,text2,0,0);
-        // int n=text1.length();
-        // int m=text2.length();
-        // vector<vector<int>> dp(n+1,vector<int>(m+1,-1));
-        // return solveRec(text1,text2,0,0,dp);
+        int n=text1.length();
+        int m=text2.length();
+        vector<vector<int>> dp(n+1,vector<int>(m+1,-1));
+        return solveRec(text1,text2,0,0,dp);
 
-        return solveTab(text1,text2);
+        //return solveTab(text1,text2);
     }
 };
