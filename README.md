@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Aakanksha13-cloud/dsa/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Aakanksha13-cloud/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Aakanksha13-cloud/dsa/tree/master/0322-coin-change) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/Aakanksha13-cloud/dsa/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aakanksha13-cloud/dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0747-min-cost-climbing-stairs) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Aakanksha13-cloud/dsa/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Aakanksha13-cloud/dsa/tree/master/0279-perfect-squares) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1086-divisor-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -549,5 +551,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1086-divisor-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
