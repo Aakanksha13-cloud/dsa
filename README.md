@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Aakanksha13-cloud/dsa/tree/master/1025-minimum-cost-for-tickets) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/Aakanksha13-cloud/dsa/tree/master/1127-last-stone-weight) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/Aakanksha13-cloud/dsa/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Aakanksha13-cloud/dsa/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Aakanksha13-cloud/dsa/tree/master/0134-gas-station) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aakanksha13-cloud/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/Aakanksha13-cloud/dsa/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1285-balance-a-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1285-balance-a-binary-search-tree) |
 ## Design
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/Aakanksha13-cloud/dsa/tree/master/1025-minimum-cost-for-tickets) |
 | [1086-divisor-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1086-divisor-game) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/Aakanksha13-cloud/dsa/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1250-longest-common-subsequence](https://github.com/Aakanksha13-cloud/dsa/tree/master/1250-longest-common-subsequence) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Aakanksha13-cloud/dsa/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0933-increasing-order-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/Aakanksha13-cloud/dsa/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Matrix
 |  |
 | ------- |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Aakanksha13-cloud/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Aakanksha13-cloud/dsa/tree/master/0085-maximal-rectangle) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/Aakanksha13-cloud/dsa/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Tree
 |  |
 | ------- |
