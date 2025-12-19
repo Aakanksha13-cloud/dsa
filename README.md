@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Aakanksha13-cloud/dsa/tree/master/0692-top-k-frequent-words) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Aakanksha13-cloud/dsa/tree/master/0987-reveal-cards-in-increasing-order) |
+| [0994-rotting-oranges](https://github.com/Aakanksha13-cloud/dsa/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/Aakanksha13-cloud/dsa/tree/master/1025-minimum-cost-for-tickets) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Aakanksha13-cloud/dsa/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Aakanksha13-cloud/dsa/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/Aakanksha13-cloud/dsa/tree/master/0994-rotting-oranges) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Aakanksha13-cloud/dsa/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Monotonic Stack
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Aakanksha13-cloud/dsa/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Aakanksha13-cloud/dsa/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/Aakanksha13-cloud/dsa/tree/master/0994-rotting-oranges) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
