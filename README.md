@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aakanksha13-cloud/dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Aakanksha13-cloud/dsa/tree/master/0506-relative-ranks) |
+| [0542-01-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Aakanksha13-cloud/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aakanksha13-cloud/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Aakanksha13-cloud/dsa/tree/master/0692-top-k-frequent-words) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Aakanksha13-cloud/dsa/tree/master/0322-coin-change) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/Aakanksha13-cloud/dsa/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0542-01-matrix) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aakanksha13-cloud/dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/Aakanksha13-cloud/dsa/tree/master/1025-minimum-cost-for-tickets) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Aakanksha13-cloud/dsa/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Aakanksha13-cloud/dsa/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Aakanksha13-cloud/dsa/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Aakanksha13-cloud/dsa/tree/master/0994-rotting-oranges) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Aakanksha13-cloud/dsa/tree/master/0322-coin-change) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Aakanksha13-cloud/dsa/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Aakanksha13-cloud/dsa/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
