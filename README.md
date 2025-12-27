@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Aakanksha13-cloud/dsa/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Aakanksha13-cloud/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aakanksha13-cloud/dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Aakanksha13-cloud/dsa/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Aakanksha13-cloud/dsa/tree/master/1631-path-with-minimum-effort) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aakanksha13-cloud/dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Aakanksha13-cloud/dsa/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Aakanksha13-cloud/dsa/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Aakanksha13-cloud/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Aakanksha13-cloud/dsa/tree/master/1020-number-of-enclaves) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Aakanksha13-cloud/dsa/tree/master/1631-path-with-minimum-effort) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Aakanksha13-cloud/dsa/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Monotonic Stack
 |  |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/Aakanksha13-cloud/dsa/tree/master/1192-critical-connections-in-a-network) |
 | [1285-balance-a-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Aakanksha13-cloud/dsa/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Aakanksha13-cloud/dsa/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Aakanksha13-cloud/dsa/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -520,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1285-balance-a-binary-search-tree) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Aakanksha13-cloud/dsa/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -599,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aakanksha13-cloud/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Aakanksha13-cloud/dsa/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Aakanksha13-cloud/dsa/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Aakanksha13-cloud/dsa/tree/master/1631-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
