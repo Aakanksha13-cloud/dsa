@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Aakanksha13-cloud/dsa/tree/master/1631-path-with-minimum-effort) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Aakanksha13-cloud/dsa/tree/master/2360-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Aakanksha13-cloud/dsa/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Aakanksha13-cloud/dsa/tree/master/1631-path-with-minimum-effort) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Aakanksha13-cloud/dsa/tree/master/2360-longest-cycle-in-a-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aakanksha13-cloud/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Aakanksha13-cloud/dsa/tree/master/0802-find-eventual-safe-states) |
 | [1192-critical-connections-in-a-network](https://github.com/Aakanksha13-cloud/dsa/tree/master/1192-critical-connections-in-a-network) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Aakanksha13-cloud/dsa/tree/master/2360-longest-cycle-in-a-graph) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Aakanksha13-cloud/dsa/tree/master/0802-find-eventual-safe-states) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Aakanksha13-cloud/dsa/tree/master/2360-longest-cycle-in-a-graph) |
 ## Shortest Path
 |  |
 | ------- |
