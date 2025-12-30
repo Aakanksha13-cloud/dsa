@@ -17,7 +17,7 @@ public:
             int city= curr[1];
             int stop=curr[2];
             if(city==dst)return cost;
-            if(vis[city]<stop)continue;
+            if(vis[city]!=INT_MAX && vis[city]<stop)continue;
             vis[city]=min(vis[city],stop);
             if(stop>k)continue;
             for(auto nbr:adj[city]){
