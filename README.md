@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Aakanksha13-cloud/dsa/tree/master/1020-number-of-enclaves) |
 | [1025-minimum-cost-for-tickets](https://github.com/Aakanksha13-cloud/dsa/tree/master/1025-minimum-cost-for-tickets) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1127-last-stone-weight](https://github.com/Aakanksha13-cloud/dsa/tree/master/1127-last-stone-weight) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Aakanksha13-cloud/dsa/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Aakanksha13-cloud/dsa/tree/master/1367-maximum-height-by-stacking-cuboids) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Aakanksha13-cloud/dsa/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Aakanksha13-cloud/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Aakanksha13-cloud/dsa/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Aakanksha13-cloud/dsa/tree/master/1631-path-with-minimum-effort) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Aakanksha13-cloud/dsa/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Aakanksha13-cloud/dsa/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aakanksha13-cloud/dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Aakanksha13-cloud/dsa/tree/master/1631-path-with-minimum-effort) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Aakanksha13-cloud/dsa/tree/master/2360-longest-cycle-in-a-graph) |
