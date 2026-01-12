@@ -4,41 +4,31 @@ public:
        unordered_map<int, vector<int>> adj;
         unordered_set<int> visited;
         const int OFFSET = 10001;
-
-        // Build graph
-        for (auto &s : stones) {
-            int row = s[0];
-            int col = s[1] + OFFSET;
-            //int col = s[1];
-            adj[row].push_back(col);
-            adj[col].push_back(row);
+ 
+        for(auto &s:stones){
+            adj[s[0]].push_back(s[1]+OFFSET);
+            adj[s[1]+OFFSET].push_back(s[0]);
         }
 
-        int components = 0;
-
-        // BFS for connected components
-        for (auto &s : stones) {
-            int start = s[0];
-            if (visited.count(start)) continue;
-
-            components++;
+        int compo=0;
+        for(auto &s:stones){
+            int node=s[0];
+            if(visited.count(node))continue;
+            compo++;
             queue<int> q;
-            q.push(start);
-            visited.insert(start);
-
-            while (!q.empty()) {
-                int node = q.front();
-                q.pop();
-
-                for (int nbr : adj[node]) {
-                    if (!visited.count(nbr)) {
-                        visited.insert(nbr);
-                        q.push(nbr);
-                    }
+            q.push(node);
+            visited.insert(node);
+            while(!q.empty()){
+               int curr=q.front();
+               q.pop();
+               for(auto nbr:adj[curr]){
+                if(!visited.count(nbr)){
+                    visited.insert(nbr);
+                    q.push(nbr);
                 }
+               }
             }
         }
-
-        return stones.size() - components;
+        return stones.size()-compo;
     }
 };
