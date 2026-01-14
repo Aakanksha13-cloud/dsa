@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Aakanksha13-cloud/dsa/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Aakanksha13-cloud/dsa/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0747-min-cost-climbing-stairs) |
+| [0778-swim-in-rising-water](https://github.com/Aakanksha13-cloud/dsa/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Aakanksha13-cloud/dsa/tree/master/0827-making-a-large-island) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Aakanksha13-cloud/dsa/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0994-rotting-oranges](https://github.com/Aakanksha13-cloud/dsa/tree/master/0994-rotting-oranges) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aakanksha13-cloud/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Aakanksha13-cloud/dsa/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Aakanksha13-cloud/dsa/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Aakanksha13-cloud/dsa/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aakanksha13-cloud/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aakanksha13-cloud/dsa/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/1014-k-closest-points-to-origin) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Aakanksha13-cloud/dsa/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Aakanksha13-cloud/dsa/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Aakanksha13-cloud/dsa/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Aakanksha13-cloud/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Aakanksha13-cloud/dsa/tree/master/1020-number-of-enclaves) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Aakanksha13-cloud/dsa/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Aakanksha13-cloud/dsa/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Aakanksha13-cloud/dsa/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Aakanksha13-cloud/dsa/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aakanksha13-cloud/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Aakanksha13-cloud/dsa/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0802-find-eventual-safe-states](https://github.com/Aakanksha13-cloud/dsa/tree/master/0802-find-eventual-safe-states) |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Aakanksha13-cloud/dsa/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Aakanksha13-cloud/dsa/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Aakanksha13-cloud/dsa/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Aakanksha13-cloud/dsa/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aakanksha13-cloud/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Aakanksha13-cloud/dsa/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0802-find-eventual-safe-states](https://github.com/Aakanksha13-cloud/dsa/tree/master/0802-find-eventual-safe-states) |
@@ -545,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0778-swim-in-rising-water](https://github.com/Aakanksha13-cloud/dsa/tree/master/0778-swim-in-rising-water) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aakanksha13-cloud/dsa/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Aakanksha13-cloud/dsa/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -635,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aakanksha13-cloud/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Aakanksha13-cloud/dsa/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Aakanksha13-cloud/dsa/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/Aakanksha13-cloud/dsa/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Aakanksha13-cloud/dsa/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aakanksha13-cloud/dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Aakanksha13-cloud/dsa/tree/master/1020-number-of-enclaves) |
