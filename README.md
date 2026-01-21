@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aakanksha13-cloud/dsa/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Aakanksha13-cloud/dsa/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aakanksha13-cloud/dsa/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Aakanksha13-cloud/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Aakanksha13-cloud/dsa/tree/master/0322-coin-change) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aakanksha13-cloud/dsa/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Aakanksha13-cloud/dsa/tree/master/0279-perfect-squares) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/1014-k-closest-points-to-origin) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Aakanksha13-cloud/dsa/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Aakanksha13-cloud/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Aakanksha13-cloud/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Aakanksha13-cloud/dsa/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0208-implement-trie-prefix-tree) |
+| [0268-missing-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aakanksha13-cloud/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aakanksha13-cloud/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Aakanksha13-cloud/dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Aakanksha13-cloud/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Aakanksha13-cloud/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0449-serialize-and-deserialize-bst) |
@@ -570,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Aakanksha13-cloud/dsa/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
