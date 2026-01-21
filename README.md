@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/Aakanksha13-cloud/dsa/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Aakanksha13-cloud/dsa/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Aakanksha13-cloud/dsa/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Aakanksha13-cloud/dsa/tree/master/0198-house-robber) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Aakanksha13-cloud/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0268-missing-number) |
 ## Two Pointers
