@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Aakanksha13-cloud/dsa/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aakanksha13-cloud/dsa/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Aakanksha13-cloud/dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aakanksha13-cloud/dsa/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aakanksha13-cloud/dsa/tree/master/0084-largest-rectangle-in-histogram) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aakanksha13-cloud/dsa/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Aakanksha13-cloud/dsa/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Aakanksha13-cloud/dsa/tree/master/0279-perfect-squares) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aakanksha13-cloud/dsa/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Aakanksha13-cloud/dsa/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Aakanksha13-cloud/dsa/tree/master/0130-surrounded-regions) |
