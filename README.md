@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aakanksha13-cloud/dsa/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Aakanksha13-cloud/dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aakanksha13-cloud/dsa/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aakanksha13-cloud/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Aakanksha13-cloud/dsa/tree/master/0085-maximal-rectangle) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0054-spiral-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Aakanksha13-cloud/dsa/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aakanksha13-cloud/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aakanksha13-cloud/dsa/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Aakanksha13-cloud/dsa/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Aakanksha13-cloud/dsa/tree/master/0130-surrounded-regions) |
