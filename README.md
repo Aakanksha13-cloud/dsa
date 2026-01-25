@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Aakanksha13-cloud/dsa/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0140-word-break-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Aakanksha13-cloud/dsa/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Aakanksha13-cloud/dsa/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Aakanksha13-cloud/dsa/tree/master/0200-number-of-islands) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Aakanksha13-cloud/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
