@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Aakanksha13-cloud/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aakanksha13-cloud/dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aakanksha13-cloud/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aakanksha13-cloud/dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Aakanksha13-cloud/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0239-sliding-window-maximum](https://github.com/Aakanksha13-cloud/dsa/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aakanksha13-cloud/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aakanksha13-cloud/dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Aakanksha13-cloud/dsa/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aakanksha13-cloud/dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aakanksha13-cloud/dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Aakanksha13-cloud/dsa/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Aakanksha13-cloud/dsa/tree/master/2585-delete-greatest-value-in-each-row) |
