@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1127-last-stone-weight](https://github.com/Aakanksha13-cloud/dsa/tree/master/1127-last-stone-weight) |
+| [1200-minimum-absolute-difference](https://github.com/Aakanksha13-cloud/dsa/tree/master/1200-minimum-absolute-difference) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Aakanksha13-cloud/dsa/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Aakanksha13-cloud/dsa/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/Aakanksha13-cloud/dsa/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1200-minimum-absolute-difference](https://github.com/Aakanksha13-cloud/dsa/tree/master/1200-minimum-absolute-difference) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Aakanksha13-cloud/dsa/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
