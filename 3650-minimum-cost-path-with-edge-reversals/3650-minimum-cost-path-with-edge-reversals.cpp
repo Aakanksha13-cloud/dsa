@@ -22,7 +22,7 @@ public:
             if(node==n-1)return d;
             
             
-            if(dist[node]!=d)continue; //means it's not updated with latest dist...hence traversing again prev one
+            if(dist[node]<d)continue; //means it's not updated with latest dist...hence traversing again prev one
             for(auto& a:adj[node]){
                 int v=a.first;
                 long long w=a.second;
