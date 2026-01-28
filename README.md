@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/3226-minimum-number-game) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Aakanksha13-cloud/dsa/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aakanksha13-cloud/dsa/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Aakanksha13-cloud/dsa/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Queue
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aakanksha13-cloud/dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Aakanksha13-cloud/dsa/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Aakanksha13-cloud/dsa/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Simulation
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Aakanksha13-cloud/dsa/tree/master/1631-path-with-minimum-effort) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Aakanksha13-cloud/dsa/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Aakanksha13-cloud/dsa/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Monotonic Stack
 |  |
 | ------- |
