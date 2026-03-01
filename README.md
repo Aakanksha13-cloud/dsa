@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Aakanksha13-cloud/dsa/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1285-balance-a-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1285-balance-a-binary-search-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aakanksha13-cloud/dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aakanksha13-cloud/dsa/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Design
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Aakanksha13-cloud/dsa/tree/master/0721-accounts-merge) |
 | [1250-longest-common-subsequence](https://github.com/Aakanksha13-cloud/dsa/tree/master/1250-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aakanksha13-cloud/dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aakanksha13-cloud/dsa/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Counting
 |  |
 | ------- |
