@@ -26,9 +26,9 @@ public:
                 j--;
             }
         }
-        for(int i=0;i<n;i++){
-                if(maxright[i]>i)return -1;    
-        }
+        // for(int i=0;i<n;i++){
+        //         if(maxright[i]>i)return -1;    
+        // }
         return ans;
 
     }
