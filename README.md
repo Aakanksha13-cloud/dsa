@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aakanksha13-cloud/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Aakanksha13-cloud/dsa/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aakanksha13-cloud/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/Aakanksha13-cloud/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Aakanksha13-cloud/dsa/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Aakanksha13-cloud/dsa/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/Aakanksha13-cloud/dsa/tree/master/0724-find-pivot-index) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Aakanksha13-cloud/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0239-sliding-window-maximum](https://github.com/Aakanksha13-cloud/dsa/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aakanksha13-cloud/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/Aakanksha13-cloud/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aakanksha13-cloud/dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
