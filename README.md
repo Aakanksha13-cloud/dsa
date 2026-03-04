@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Aakanksha13-cloud/dsa/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aakanksha13-cloud/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Aakanksha13-cloud/dsa/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Aakanksha13-cloud/dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Aakanksha13-cloud/dsa/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Aakanksha13-cloud/dsa/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/Aakanksha13-cloud/dsa/tree/master/0724-find-pivot-index) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Aakanksha13-cloud/dsa/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aakanksha13-cloud/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Aakanksha13-cloud/dsa/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Aakanksha13-cloud/dsa/tree/master/0658-find-k-closest-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aakanksha13-cloud/dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Aakanksha13-cloud/dsa/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aakanksha13-cloud/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/Aakanksha13-cloud/dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Aakanksha13-cloud/dsa/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Aakanksha13-cloud/dsa/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Aakanksha13-cloud/dsa/tree/master/0778-swim-in-rising-water) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/Aakanksha13-cloud/dsa/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aakanksha13-cloud/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/Aakanksha13-cloud/dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Aakanksha13-cloud/dsa/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Aakanksha13-cloud/dsa/tree/master/0721-accounts-merge) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Aakanksha13-cloud/dsa/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -618,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0538-convert-bst-to-greater-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Aakanksha13-cloud/dsa/tree/master/0658-find-k-closest-elements) |
 | [0778-swim-in-rising-water](https://github.com/Aakanksha13-cloud/dsa/tree/master/0778-swim-in-rising-water) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aakanksha13-cloud/dsa/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -651,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Aakanksha13-cloud/dsa/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Aakanksha13-cloud/dsa/tree/master/0658-find-k-closest-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aakanksha13-cloud/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Quickselect
 |  |
