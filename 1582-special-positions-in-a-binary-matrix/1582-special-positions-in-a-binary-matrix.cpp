@@ -3,7 +3,7 @@ public:
     int numSpecial(vector<vector<int>>& mat) {
         int m=mat.size();
         int n=mat[0].size();
-        unordered_map<int,int> r;
+        unordered_map<int,int> r;//or can use vector cox it is faster and more efficient
         unordered_map<int,int> c;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
