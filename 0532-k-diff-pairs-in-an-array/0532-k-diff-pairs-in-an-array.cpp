@@ -35,7 +35,7 @@ public:
             if(k==0){
                 if(it.second>1)ans++;
             }
-            else if(m.find(it.first + k)!=m.end())ans++;
+            else if(m.find(it.first - k)!=m.end())ans++;
         }
         return ans;
     }
