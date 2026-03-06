@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Aakanksha13-cloud/dsa/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Aakanksha13-cloud/dsa/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Aakanksha13-cloud/dsa/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aakanksha13-cloud/dsa/tree/master/0242-valid-anagram) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Aakanksha13-cloud/dsa/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Aakanksha13-cloud/dsa/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0140-word-break-ii) |
+| [0205-isomorphic-strings](https://github.com/Aakanksha13-cloud/dsa/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Aakanksha13-cloud/dsa/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
