@@ -40,5 +40,29 @@ public:
             i=i+f;
         }
         return k;
+        //cleaner code
+        // int n = chars.size();
+        // int i = 0, k = 0;
+
+        // while(i < n){
+        //     int j = i;
+
+        //     while(j < n && chars[j] == chars[i])
+        //         j++;
+
+        //     int count = j - i;
+
+        //     chars[k++] = chars[i];
+
+        //     if(count > 1){
+        //         string s = to_string(count);
+        //         for(char c : s)
+        //             chars[k++] = c;
+        //     }
+
+        //     i = j;
+        // }
+
+        // return k;
     }
 };
