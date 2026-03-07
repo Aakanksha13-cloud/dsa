@@ -6,12 +6,12 @@ public:
         int k=0;//to keep a track of where to modify the chars
         while(i<n){
             int j=i+1;
-            if(j<n && chars[i]!=chars[j]){
-                chars[k]=chars[i];
-                i++;
-                k++;
-                continue;
-            }
+            // if(j<n && chars[i]!=chars[j]){
+            //     chars[k]=chars[i];
+            //     i++;
+            //     k++;
+            //     continue;
+            //}
             int f=1;
             while(j<n && chars[i]==chars[j]){
                 f++;
