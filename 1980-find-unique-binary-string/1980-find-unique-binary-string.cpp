@@ -8,7 +8,7 @@ string ans="";
             }
              return;
         }
-        //if(ans!="")return;
+        if(ans!="")return;
         curr+='0';
         backtrack(i+1,n,curr,st);
         curr.pop_back();
