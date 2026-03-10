@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aakanksha13-cloud/dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Aakanksha13-cloud/dsa/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Aakanksha13-cloud/dsa/tree/master/0767-reorganize-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1250-longest-common-subsequence](https://github.com/Aakanksha13-cloud/dsa/tree/master/1250-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aakanksha13-cloud/dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aakanksha13-cloud/dsa/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0933-increasing-order-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Aakanksha13-cloud/dsa/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Matrix
 |  |
