@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Aakanksha13-cloud/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Aakanksha13-cloud/dsa/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Aakanksha13-cloud/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aakanksha13-cloud/dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Aakanksha13-cloud/dsa/tree/master/0485-max-consecutive-ones) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Aakanksha13-cloud/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Aakanksha13-cloud/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Aakanksha13-cloud/dsa/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aakanksha13-cloud/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aakanksha13-cloud/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aakanksha13-cloud/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aakanksha13-cloud/dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Aakanksha13-cloud/dsa/tree/master/0300-longest-increasing-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0450-delete-node-in-a-bst) |
@@ -707,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aakanksha13-cloud/dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Aakanksha13-cloud/dsa/tree/master/0295-find-median-from-data-stream) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Aakanksha13-cloud/dsa/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Aakanksha13-cloud/dsa/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
