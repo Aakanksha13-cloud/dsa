@@ -15,28 +15,18 @@ public:
     //    }
     //    sort(ans.begin(),ans.end());
     //    return ans;
-
     int n = arr.size();
+    if(k==n)return arr;
+    if(k>n)return vector<int>{-1};
     
-    int left = 0;
-    int right = n - k;   // possible starting indices of window
-    
-    while (left < right) {
-        int mid = left + (right - left) / 2;
-        
-        // Compare distances of window edges
-        if (x - arr[mid] > arr[mid + k] - x)
-            left = mid + 1;
-        else
-            right = mid;
+    int l=0;
+    int r=n-k;//rightmost possibility of starting index of window
+    int mid=r/2;
+    while(l<r){
+        if(x-arr[mid]>arr[mid+k]-x)l=mid+1;//compare mid of two consecutives windows
+        else r=mid;
+        mid=l+(r-l)/2;
     }
-    
-    // Build answer directly
-    vector<int> ans;
-    for (int i = left; i < left + k; i++) {
-        ans.push_back(arr[i]);
-    }
-    
-    return ans;
+    return vector<int>(arr.begin()+l,arr.begin()+l+k);
     }
 };
