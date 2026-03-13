@@ -42,13 +42,14 @@ public:
         int n=nums.size();
         int e=n-1;
         int mid=e/2;
-        while(s<e){
+        while(s<=e){
+            if(s==e)return nums[mid];
             if(mid%2==1)mid--;
             if(nums[mid]==nums[mid+1])s=mid+2;
             else e=mid;
             mid=s+(e-s)/2;
         }
-        return nums[s];
+        
         return -1;
     }
 };
