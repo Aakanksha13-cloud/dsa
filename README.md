@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aakanksha13-cloud/dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/Aakanksha13-cloud/dsa/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Aakanksha13-cloud/dsa/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/Aakanksha13-cloud/dsa/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Aakanksha13-cloud/dsa/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/Aakanksha13-cloud/dsa/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/Aakanksha13-cloud/dsa/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aakanksha13-cloud/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/Aakanksha13-cloud/dsa/tree/master/0767-reorganize-string) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Aakanksha13-cloud/dsa/tree/master/0322-coin-change) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/Aakanksha13-cloud/dsa/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Aakanksha13-cloud/dsa/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0542-01-matrix) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aakanksha13-cloud/dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0747-min-cost-climbing-stairs) |
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Aakanksha13-cloud/dsa/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/Aakanksha13-cloud/dsa/tree/master/0410-split-array-largest-sum) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -758,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Aakanksha13-cloud/dsa/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aakanksha13-cloud/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Aakanksha13-cloud/dsa/tree/master/0724-find-pivot-index) |
 ## Memoization
