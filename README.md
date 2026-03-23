@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Aakanksha13-cloud/dsa/tree/master/0539-minimum-time-difference) |
 | [1014-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1086-divisor-game) |
+| [1922-count-good-numbers](https://github.com/Aakanksha13-cloud/dsa/tree/master/1922-count-good-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Aakanksha13-cloud/dsa/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Aakanksha13-cloud/dsa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Aakanksha13-cloud/dsa/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Aakanksha13-cloud/dsa/tree/master/0342-power-of-four) |
+| [1922-count-good-numbers](https://github.com/Aakanksha13-cloud/dsa/tree/master/1922-count-good-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sorting
 |  |
