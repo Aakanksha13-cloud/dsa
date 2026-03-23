@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Aakanksha13-cloud/dsa/tree/master/0367-valid-perfect-square) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0539-minimum-time-difference](https://github.com/Aakanksha13-cloud/dsa/tree/master/0539-minimum-time-difference) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Aakanksha13-cloud/dsa/tree/master/0779-k-th-symbol-in-grammar) |
 | [1014-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1086-divisor-game) |
 | [1922-count-good-numbers](https://github.com/Aakanksha13-cloud/dsa/tree/master/1922-count-good-numbers) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Aakanksha13-cloud/dsa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Aakanksha13-cloud/dsa/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Aakanksha13-cloud/dsa/tree/master/0342-power-of-four) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Aakanksha13-cloud/dsa/tree/master/0779-k-th-symbol-in-grammar) |
 | [1922-count-good-numbers](https://github.com/Aakanksha13-cloud/dsa/tree/master/1922-count-good-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sorting
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Aakanksha13-cloud/dsa/tree/master/0342-power-of-four) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Aakanksha13-cloud/dsa/tree/master/0779-k-th-symbol-in-grammar) |
 ## Two Pointers
 |  |
 | ------- |
