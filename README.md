@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aakanksha13-cloud/dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Aakanksha13-cloud/dsa/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Aakanksha13-cloud/dsa/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3226-minimum-number-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Aakanksha13-cloud/dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1980-find-unique-binary-string](https://github.com/Aakanksha13-cloud/dsa/tree/master/1980-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aakanksha13-cloud/dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String
 |  |
 | ------- |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Aakanksha13-cloud/dsa/tree/master/1980-find-unique-binary-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Aakanksha13-cloud/dsa/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aakanksha13-cloud/dsa/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Counting
 |  |
 | ------- |
