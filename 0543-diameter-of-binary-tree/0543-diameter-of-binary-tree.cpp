@@ -11,19 +11,31 @@
  */
 class Solution {
 public:
-    int maxDepth(TreeNode* root) {
+    // int maxDepth(TreeNode* root) {
+    //     if(root==NULL)return 0;
+    //     int l= maxDepth(root->left);
+    //     int r=maxDepth(root->right);
+    //     int height = max(l,r) +1;
+    //     return height;
+    // }
+    int diameter=0;
+    int height(TreeNode* root){
         if(root==NULL)return 0;
-        int l= maxDepth(root->left);
-        int r=maxDepth(root->right);
-        int height = max(l,r) +1;
-        return height;
+        int left=height(root->left);
+        int right=height(root->right);
+        diameter=max(diameter,left+right);
+        return max(left,right)+1;
     }
     int diameterOfBinaryTree(TreeNode* root) {
         if(root==NULL)return 0;
-        int l = diameterOfBinaryTree(root->left);
-        int r = diameterOfBinaryTree(root->right);
-        int combo = maxDepth(root->left)+maxDepth(root->right);
-        int ans= max(combo,max(l,r));
-        return ans;
+        //o(n2)
+        // int l = diameterOfBinaryTree(root->left);
+        // int r = diameterOfBinaryTree(root->right);
+        // int combo = maxDepth(root->left)+maxDepth(root->right);
+        // int ans= max(combo,max(l,r));
+        // return ans;
+        //0(n)
+        height(root);
+        return diameter;
     }
 };
