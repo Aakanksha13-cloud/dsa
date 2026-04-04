@@ -18,5 +18,11 @@ public:
         }
         
         return ans;
+//         Intuition Summary
+// Treat numbers like a prefix tree
+// Always try:
+// Down (×10) → smallest lexicographically
+// Else Right (+1)
+// Else Backtrack (/10)
     }
 };
