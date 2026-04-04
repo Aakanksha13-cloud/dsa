@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aakanksha13-cloud/dsa/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aakanksha13-cloud/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/Aakanksha13-cloud/dsa/tree/master/0388-longest-absolute-file-path) |
 | [0392-is-subsequence](https://github.com/Aakanksha13-cloud/dsa/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Aakanksha13-cloud/dsa/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0449-serialize-and-deserialize-bst) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aakanksha13-cloud/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0388-longest-absolute-file-path](https://github.com/Aakanksha13-cloud/dsa/tree/master/0388-longest-absolute-file-path) |
 | [0933-increasing-order-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0933-increasing-order-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Aakanksha13-cloud/dsa/tree/master/0386-lexicographical-numbers) |
+| [0388-longest-absolute-file-path](https://github.com/Aakanksha13-cloud/dsa/tree/master/0388-longest-absolute-file-path) |
 | [0437-path-sum-iii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
