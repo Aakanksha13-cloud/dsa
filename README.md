@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Aakanksha13-cloud/dsa/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -788,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Aakanksha13-cloud/dsa/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/Aakanksha13-cloud/dsa/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Aakanksha13-cloud/dsa/tree/master/0692-top-k-frequent-words) |
 ## Concurrency
 |  |
