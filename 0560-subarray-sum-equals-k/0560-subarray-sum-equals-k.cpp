@@ -8,7 +8,6 @@ public:
                 sum+=nums[j];
                 if(sum==k){
                     ans++;
-                    // break;
                 }
             }
         }return ans;
