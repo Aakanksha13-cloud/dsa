@@ -11,13 +11,19 @@
  */
 class Solution {
 public:
-    bool solve(TreeNode* root, long long int minval, long long int maxval){
-        if(root==NULL)return true;
-        if(root->val<=minval || root->val>=maxval)return false;
-        return solve(root->left,minval,root->val)&& solve(root->right,root->val,maxval);
+    void inorder(TreeNode* root,vector<int>& ans){
+         if(root==NULL)return;
+         inorder(root->left,ans);
+         ans.push_back(root->val);
+         inorder(root->right,ans);
     }
+  
     bool isValidBST(TreeNode* root) {
-        if(root==NULL) return true;
-        return solve(root,LONG_MIN,LONG_MAX);//long_min,long_max have larger range than intmin ,intmax
+        vector<int> ans;
+        inorder(root,ans);
+        for(int i=1;i<ans.size();i++){
+            if(ans[i]<=ans[i-1])return false;
+        }
+        return true;
     }
 };
