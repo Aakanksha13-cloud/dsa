@@ -3,10 +3,9 @@ public:
     int climbStairs(int n, vector<int>& costs) {
         vector<int> dp(n+1,INT_MAX);
         dp[0]=0;
-        for(int i=0;i<n;i++){
-           
+        for(int i=0;i<n;i++){  
            for(int j=i+1; j<=min(i+3,n);j++){
-            dp[j]=min(dp[j],dp[i]+costs[j-1]+((j-i)*(j-i)));
+            dp[j]=min(dp[j],dp[i]+costs[j-1]+((j-i)*(j-i)));//here j-1 coz costs is given 1 indexed so here cost of step 1 = costs[0]
            }
         }
         return dp[n];
