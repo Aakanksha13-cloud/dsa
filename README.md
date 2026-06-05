@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aakanksha13-cloud/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1025-minimum-cost-for-tickets](https://github.com/Aakanksha13-cloud/dsa/tree/master/1025-minimum-cost-for-tickets) |
 | [1086-divisor-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1086-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Aakanksha13-cloud/dsa/tree/master/1143-longest-common-subsequence) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Aakanksha13-cloud/dsa/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1250-longest-common-subsequence](https://github.com/Aakanksha13-cloud/dsa/tree/master/1250-longest-common-subsequence) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/Aakanksha13-cloud/dsa/tree/master/0779-k-th-symbol-in-grammar) |
 | [1014-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1086-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/1137-n-th-tribonacci-number) |
 | [1922-count-good-numbers](https://github.com/Aakanksha13-cloud/dsa/tree/master/1922-count-good-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Aakanksha13-cloud/dsa/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -839,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Aakanksha13-cloud/dsa/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0140-word-break-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
