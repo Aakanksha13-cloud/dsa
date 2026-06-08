@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Aakanksha13-cloud/dsa/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Aakanksha13-cloud/dsa/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Aakanksha13-cloud/dsa/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Aakanksha13-cloud/dsa/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Aakanksha13-cloud/dsa/tree/master/0068-text-justification) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Aakanksha13-cloud/dsa/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aakanksha13-cloud/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Aakanksha13-cloud/dsa/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Aakanksha13-cloud/dsa/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/Aakanksha13-cloud/dsa/tree/master/0068-text-justification) |
 | [0093-restore-ip-addresses](https://github.com/Aakanksha13-cloud/dsa/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Aakanksha13-cloud/dsa/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Aakanksha13-cloud/dsa/tree/master/0127-word-ladder) |
