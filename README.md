@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Aakanksha13-cloud/dsa/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0054-spiral-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Aakanksha13-cloud/dsa/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Aakanksha13-cloud/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aakanksha13-cloud/dsa/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Aakanksha13-cloud/dsa/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Aakanksha13-cloud/dsa/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Aakanksha13-cloud/dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aakanksha13-cloud/dsa/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Aakanksha13-cloud/dsa/tree/master/0069-sqrtx) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Aakanksha13-cloud/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Aakanksha13-cloud/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Aakanksha13-cloud/dsa/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Aakanksha13-cloud/dsa/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Aakanksha13-cloud/dsa/tree/master/0044-wildcard-matching) |
 | [0093-restore-ip-addresses](https://github.com/Aakanksha13-cloud/dsa/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Aakanksha13-cloud/dsa/tree/master/0115-distinct-subsequences) |
