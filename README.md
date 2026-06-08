@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Aakanksha13-cloud/dsa/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Aakanksha13-cloud/dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aakanksha13-cloud/dsa/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Aakanksha13-cloud/dsa/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Aakanksha13-cloud/dsa/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Aakanksha13-cloud/dsa/tree/master/0231-power-of-two) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Aakanksha13-cloud/dsa/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Aakanksha13-cloud/dsa/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Aakanksha13-cloud/dsa/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Aakanksha13-cloud/dsa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Aakanksha13-cloud/dsa/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Aakanksha13-cloud/dsa/tree/master/0342-power-of-four) |
