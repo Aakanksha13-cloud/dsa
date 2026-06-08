@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aakanksha13-cloud/dsa/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Aakanksha13-cloud/dsa/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Aakanksha13-cloud/dsa/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Aakanksha13-cloud/dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aakanksha13-cloud/dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0054-spiral-matrix) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Aakanksha13-cloud/dsa/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Aakanksha13-cloud/dsa/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Aakanksha13-cloud/dsa/tree/master/0410-split-array-largest-sum) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Aakanksha13-cloud/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aakanksha13-cloud/dsa/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Aakanksha13-cloud/dsa/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aakanksha13-cloud/dsa/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Aakanksha13-cloud/dsa/tree/master/0085-maximal-rectangle) |
