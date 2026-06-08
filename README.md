@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aakanksha13-cloud/dsa/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Aakanksha13-cloud/dsa/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Aakanksha13-cloud/dsa/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Aakanksha13-cloud/dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aakanksha13-cloud/dsa/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Aakanksha13-cloud/dsa/tree/master/0069-sqrtx) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aakanksha13-cloud/dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aakanksha13-cloud/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Aakanksha13-cloud/dsa/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Aakanksha13-cloud/dsa/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Aakanksha13-cloud/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Aakanksha13-cloud/dsa/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Aakanksha13-cloud/dsa/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Aakanksha13-cloud/dsa/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Aakanksha13-cloud/dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Aakanksha13-cloud/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/Aakanksha13-cloud/dsa/tree/master/0044-wildcard-matching) |
