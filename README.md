@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aakanksha13-cloud/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Aakanksha13-cloud/dsa/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Aakanksha13-cloud/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Aakanksha13-cloud/dsa/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Aakanksha13-cloud/dsa/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0070-climbing-stairs) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aakanksha13-cloud/dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Aakanksha13-cloud/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Aakanksha13-cloud/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Aakanksha13-cloud/dsa/tree/master/0044-wildcard-matching) |
 | [0093-restore-ip-addresses](https://github.com/Aakanksha13-cloud/dsa/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Aakanksha13-cloud/dsa/tree/master/0115-distinct-subsequences) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Aakanksha13-cloud/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aakanksha13-cloud/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Aakanksha13-cloud/dsa/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/0094-binary-tree-inorder-traversal) |
