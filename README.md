@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aakanksha13-cloud/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Aakanksha13-cloud/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Aakanksha13-cloud/dsa/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Aakanksha13-cloud/dsa/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aakanksha13-cloud/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Aakanksha13-cloud/dsa/tree/master/0643-maximum-average-subarray-i) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aakanksha13-cloud/dsa/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Aakanksha13-cloud/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Aakanksha13-cloud/dsa/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/Aakanksha13-cloud/dsa/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Aakanksha13-cloud/dsa/tree/master/0127-word-ladder) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Aakanksha13-cloud/dsa/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Aakanksha13-cloud/dsa/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/Aakanksha13-cloud/dsa/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Aakanksha13-cloud/dsa/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Aakanksha13-cloud/dsa/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Aakanksha13-cloud/dsa/tree/master/0127-word-ladder) |
