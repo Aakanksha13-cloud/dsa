@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Aakanksha13-cloud/dsa/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aakanksha13-cloud/dsa/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Aakanksha13-cloud/dsa/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Aakanksha13-cloud/dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aakanksha13-cloud/dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/0054-spiral-matrix) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aakanksha13-cloud/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Aakanksha13-cloud/dsa/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Aakanksha13-cloud/dsa/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Aakanksha13-cloud/dsa/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Aakanksha13-cloud/dsa/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Aakanksha13-cloud/dsa/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0070-climbing-stairs) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Aakanksha13-cloud/dsa/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Aakanksha13-cloud/dsa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aakanksha13-cloud/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Aakanksha13-cloud/dsa/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/0094-binary-tree-inorder-traversal) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aakanksha13-cloud/dsa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aakanksha13-cloud/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Aakanksha13-cloud/dsa/tree/master/0085-maximal-rectangle) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -789,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aakanksha13-cloud/dsa/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Aakanksha13-cloud/dsa/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Aakanksha13-cloud/dsa/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Aakanksha13-cloud/dsa/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aakanksha13-cloud/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Aakanksha13-cloud/dsa/tree/master/0283-move-zeroes) |
