@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Aakanksha13-cloud/dsa/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/Aakanksha13-cloud/dsa/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Aakanksha13-cloud/dsa/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Aakanksha13-cloud/dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0119-pascals-triangle-ii) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Aakanksha13-cloud/dsa/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Aakanksha13-cloud/dsa/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/Aakanksha13-cloud/dsa/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/Aakanksha13-cloud/dsa/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Aakanksha13-cloud/dsa/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0126-word-ladder-ii) |
