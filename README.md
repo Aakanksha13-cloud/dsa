@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Aakanksha13-cloud/dsa/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aakanksha13-cloud/dsa/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3609-minimum-moves-to-reach-target-in-grid](https://github.com/Aakanksha13-cloud/dsa/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
 ## Recursion
 |  |
 | ------- |
