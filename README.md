@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aakanksha13-cloud/dsa/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Aakanksha13-cloud/dsa/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3693-climbing-stairs-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/3693-climbing-stairs-ii) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Aakanksha13-cloud/dsa/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Queue
 |  |
 | ------- |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Aakanksha13-cloud/dsa/tree/master/1631-path-with-minimum-effort) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Aakanksha13-cloud/dsa/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Aakanksha13-cloud/dsa/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Aakanksha13-cloud/dsa/tree/master/0779-k-th-symbol-in-grammar) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Aakanksha13-cloud/dsa/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Two Pointers
 |  |
 | ------- |
@@ -981,4 +984,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0493-reverse-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Aakanksha13-cloud/dsa/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 <!---LeetCode Topics End-->
