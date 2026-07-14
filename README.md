@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Aakanksha13-cloud/dsa/tree/master/0367-valid-perfect-square) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0539-minimum-time-difference](https://github.com/Aakanksha13-cloud/dsa/tree/master/0539-minimum-time-difference) |
+| [0754-reach-a-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0754-reach-a-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Aakanksha13-cloud/dsa/tree/master/0779-k-th-symbol-in-grammar) |
 | [1014-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1086-divisor-game) |
@@ -806,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Aakanksha13-cloud/dsa/tree/master/0658-find-k-closest-elements) |
+| [0754-reach-a-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0754-reach-a-number) |
 | [0778-swim-in-rising-water](https://github.com/Aakanksha13-cloud/dsa/tree/master/0778-swim-in-rising-water) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aakanksha13-cloud/dsa/tree/master/0789-kth-largest-element-in-a-stream) |
