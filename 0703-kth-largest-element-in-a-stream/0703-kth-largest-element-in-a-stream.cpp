@@ -3,10 +3,8 @@ public:
     priority_queue<int,vector<int>,greater<int>> pq;
     int K;
     KthLargest(int k, vector<int>& nums) {
-        for(int i=0;i<nums.size();i++){
-            pq.push(nums[i]);
-        }
-        K =k;
+        for(int i=0;i<nums.size();i++)pq.push(nums[i]);
+        K=k;
     }
     
     int add(int val) {
