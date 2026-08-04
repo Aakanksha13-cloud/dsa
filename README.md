@@ -599,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Aakanksha13-cloud/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aakanksha13-cloud/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Aakanksha13-cloud/dsa/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Aakanksha13-cloud/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aakanksha13-cloud/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Aakanksha13-cloud/dsa/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Aakanksha13-cloud/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Aakanksha13-cloud/dsa/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Aakanksha13-cloud/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Aakanksha13-cloud/dsa/tree/master/0279-perfect-squares) |
@@ -970,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Aakanksha13-cloud/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Aakanksha13-cloud/dsa/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aakanksha13-cloud/dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -989,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Aakanksha13-cloud/dsa/tree/master/0207-course-schedule) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Aakanksha13-cloud/dsa/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
 |  |
@@ -1010,4 +1014,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Aakanksha13-cloud/dsa/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Aakanksha13-cloud/dsa/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
