@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Aakanksha13-cloud/dsa/tree/master/1631-path-with-minimum-effort) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Aakanksha13-cloud/dsa/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aakanksha13-cloud/dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1980-find-unique-binary-string](https://github.com/Aakanksha13-cloud/dsa/tree/master/1980-find-unique-binary-string) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aakanksha13-cloud/dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Aakanksha13-cloud/dsa/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Aakanksha13-cloud/dsa/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aakanksha13-cloud/dsa/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aakanksha13-cloud/dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Aakanksha13-cloud/dsa/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0216-combination-sum-iii) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Aakanksha13-cloud/dsa/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1980-find-unique-binary-string](https://github.com/Aakanksha13-cloud/dsa/tree/master/1980-find-unique-binary-string) |
 ## Divide and Conquer
 |  |
@@ -849,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Aakanksha13-cloud/dsa/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Aakanksha13-cloud/dsa/tree/master/0779-k-th-symbol-in-grammar) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Aakanksha13-cloud/dsa/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Aakanksha13-cloud/dsa/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Two Pointers
 |  |
@@ -1018,4 +1022,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Aakanksha13-cloud/dsa/tree/master/0207-course-schedule) |
+## Bitmask
+|  |
+| ------- |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Aakanksha13-cloud/dsa/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 <!---LeetCode Topics End-->
