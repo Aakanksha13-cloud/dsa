@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Aakanksha13-cloud/dsa/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Aakanksha13-cloud/dsa/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Aakanksha13-cloud/dsa/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aakanksha13-cloud/dsa/tree/master/0283-move-zeroes) |
@@ -916,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Aakanksha13-cloud/dsa/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Aakanksha13-cloud/dsa/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aakanksha13-cloud/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Aakanksha13-cloud/dsa/tree/master/0724-find-pivot-index) |
