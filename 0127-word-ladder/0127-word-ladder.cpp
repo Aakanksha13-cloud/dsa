@@ -1,28 +1,26 @@
 class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        unordered_set<string> st(wordList.begin(),wordList.end());
-        queue<pair<string,int>> q;
-        q.push({beginWord,1});
-        st.erase(beginWord);
-        while(!q.empty()){
-            string frontSt= q.front().first;
-            int frontDist= q.front().second;
-            q.pop();
-            if(frontSt==endWord)return frontDist;
-            else{
-                for(int i=0;i<frontSt.size();i++){
-                    char originalch= frontSt[i];
-                    for(char ch='a';ch<='z';ch++){
-                        frontSt[i]=ch;
-                        if(st.find(frontSt)!=st.end()){
-                            q.push({frontSt,frontDist+1});
-                            st.erase(frontSt);
-                        }
+        //shortest path->bfs
+        unordered_set<string> s(wordList.begin(),wordList.end());
+        priority_queue<pair<int,string>,vector<pair<int,string>>,greater<pair<int,string>>> pq;
+        pq.push({1,beginWord});
+        while(!pq.empty()){
+            auto t=pq.top();
+            pq.pop();
+            int dist=t.first;
+            string str=t.second;
+            if(str==endWord)return dist;
+            for(int i=0;i<str.length();i++){
+                char org=str[i];
+                for(char j='a';j<='z';j++){
+                    str[i]=j;
+                    if(s.find(str)!=s.end()){
+                        pq.push({dist+1,str});
+                        s.erase(str); 
                     }
-                    //backtrack
-                    frontSt[i]=originalch;
                 }
+                str[i]=org;
             }
         }
         return 0;
