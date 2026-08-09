@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Aakanksha13-cloud/dsa/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Aakanksha13-cloud/dsa/tree/master/0827-making-a-large-island) |
+| [0973-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Aakanksha13-cloud/dsa/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0994-rotting-oranges](https://github.com/Aakanksha13-cloud/dsa/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/1014-k-closest-points-to-origin) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Aakanksha13-cloud/dsa/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aakanksha13-cloud/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aakanksha13-cloud/dsa/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Aakanksha13-cloud/dsa/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aakanksha13-cloud/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Aakanksha13-cloud/dsa/tree/master/0539-minimum-time-difference) |
 | [0754-reach-a-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/0754-reach-a-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Aakanksha13-cloud/dsa/tree/master/0779-k-th-symbol-in-grammar) |
+| [0973-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/Aakanksha13-cloud/dsa/tree/master/1086-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Aakanksha13-cloud/dsa/tree/master/1137-n-th-tribonacci-number) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Aakanksha13-cloud/dsa/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Aakanksha13-cloud/dsa/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Aakanksha13-cloud/dsa/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Aakanksha13-cloud/dsa/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -773,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Aakanksha13-cloud/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Aakanksha13-cloud/dsa/tree/master/0493-reverse-pairs) |
+| [0973-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/Aakanksha13-cloud/dsa/tree/master/1285-balance-a-binary-search-tree) |
 ## Linked List
@@ -882,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aakanksha13-cloud/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Aakanksha13-cloud/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
@@ -896,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/1014-k-closest-points-to-origin) |
 ## Trie
 |  |
@@ -1034,4 +1041,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Aakanksha13-cloud/dsa/tree/master/0127-word-ladder) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Aakanksha13-cloud/dsa/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
