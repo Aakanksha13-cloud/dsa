@@ -1030,4 +1030,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Aakanksha13-cloud/dsa/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Aakanksha13-cloud/dsa/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
