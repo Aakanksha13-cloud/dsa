@@ -11,32 +11,31 @@
 class compare{
     public:
     bool operator()(ListNode* a,ListNode* b){
-        return a->val > b->val;
+        return a->val>b->val;
     }
-}; 
+};
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        priority_queue<ListNode*,vector<ListNode*>,compare> pq;
-        for(int row=0;row<lists.size();row++){
-            if(lists[row]!=NULL)pq.push(lists[row]);
-            
-        }
         ListNode* head=NULL;
-        ListNode* tail =NULL;
+        ListNode* tail=NULL;
+        priority_queue<ListNode*,vector<ListNode*>,compare> pq;
+        for(int i=0;i<lists.size();i++){
+            if(lists[i]!=NULL)pq.push(lists[i]);
+        }
         while(!pq.empty()){
-            ListNode* front= pq.top();
+            auto t=pq.top();
             pq.pop();
             if(head==NULL && tail==NULL){
-                head=front;
-                tail=front;
+                head=t;
+                tail=t;
             }
             else{
-                tail->next=front;
-                tail=front;
+                tail->next=t;
+                tail=t;
             }
-            if(front->next!=NULL){
-                pq.push(front->next);
+            if(t->next!=NULL){
+                pq.push(t->next);
             }
         }
         return head;
