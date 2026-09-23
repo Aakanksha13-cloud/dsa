@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        vector<int> ans;
+        // vector<int> ans;
         //O(n2)
         // for(int i=0; i<nums.size()-1; i++){
         //     for(int j=i+1; j<nums.size(); j++){
@@ -14,16 +14,30 @@ public:
 
         //O(n)
 
-        unordered_map<int,int>m;
-        for(int i=0;i<nums.size();i++){
+        // unordered_map<int,int>m;
+        // for(int i=0;i<nums.size();i++){
             
-            int tofind= target-nums[i];
-            if(m.find(tofind)!=m.end() && m[tofind]!=i ){ //O(1) me search
+        //     int tofind= target-nums[i];
+        //     if(m.find(tofind)!=m.end() && m[tofind]!=i ){ //O(1) me search
+        //         ans.push_back(i);
+        //         ans.push_back(m[tofind]);
+        //         break;
+        //     }
+        //     m[nums[i]]=i;
+        // }
+        // return ans;
+
+        unordered_map<int,int> m;
+        vector<int> ans;
+        for(int i=0;i<nums.size();i++){
+            int curr=nums[i];
+            int wanna=target-nums[i];
+            if(m.find(wanna)!=m.end()){
                 ans.push_back(i);
-                ans.push_back(m[tofind]);
-                break;
+                ans.push_back(m[wanna]);
+                return ans;
             }
-            m[nums[i]]=i;
+            m[curr]=i;
         }
         return ans;
     }
