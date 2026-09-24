@@ -7,7 +7,7 @@ public:
         int ans=0;
         for(auto i:m){
             int curr=i;
-            if(m.find(curr-1)!=m.end())continue;
+            if(m.find(curr-1)!=m.end())continue;//to find through starting point not in b/w
             else if(m.find(curr-1)==m.end()){
                 int currlen=1;
                 int next=curr+1;
